@@ -107,7 +107,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  Bogor.
                   <br />
                   Nashville, TN 00000
                   <br />
